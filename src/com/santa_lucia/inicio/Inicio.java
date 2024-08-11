@@ -5,7 +5,7 @@ public class Inicio {
 Scanner lector = new Scanner(System.in);
 System.out.println("Ingrese su numero:");
 int num=lector.nextInt();
-System.out.println("El valor nuvo para github: "+num);
+System.out.println("El valor nuvo para github porno: "+num);
 }
 }
 
